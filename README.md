@@ -36,8 +36,8 @@ Ce n'est pas un blocage spécifique contre *Ninja Fitness*, mais une mesure de s
 
 <br>
 
-<a href="COLLE_TON_LIEN_ICI">
-  <img src="https://github.com/ninja959999/Ninja-Fitness-APK/releases/tag/V2.0](https://github.com/ninja959999/Ninja-Fitness-APK/releases/download/V2.0/app-release.apk"-Ninja_Fitness-blue?style=for-the-badge&logo=android&logoColor=white" alt="Installer APK">
+<a href="https://github.com/ninja959999/Ninja-Fitness-APK/releases/download/V2.0/app-release.apk">
+  <img src="https://img.shields.io/badge/INSTALLER_APK-Ninja_Fitness-blue?style=for-the-badge&logo=android&logoColor=white" alt="Installer APK">
 </a>
 
 <br>
