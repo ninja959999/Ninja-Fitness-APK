@@ -33,5 +33,13 @@ Ce n'est pas un blocage spécifique contre *Ninja Fitness*, mais une mesure de s
 4. Active l'option **"Autoriser depuis cette source"**.
 5. Reviens en arrière et valide **"Installer"**.
 
+
+<br>
+
+<a href="COLLE_TON_LIEN_ICI">
+  <img src="https://github.com/ninja959999/Ninja-Fitness-APK/releases/tag/V2.0-Ninja_Fitness-blue?style=for-the-badge&logo=android&logoColor=white" alt="Installer APK">
+</a>
+
+<br>
 ---
 *© 2026 Ninja Gaming - Tous droits réservés.*
